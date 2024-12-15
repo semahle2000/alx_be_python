@@ -1,6 +1,6 @@
 #Define the variables 
-number1=10
-number2=5
+number1 = 10
+number2 = 5
 
 #Perform arithmetic operations
 addition = number1 + number2
